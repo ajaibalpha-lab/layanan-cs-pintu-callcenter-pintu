@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://layanan-cs-pintu-callcenter-pintu.pages.dev/sitemap.xml
