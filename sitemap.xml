@@ -1,0 +1,15 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  Halaman Utama  -->
+<url>
+...
+</url>
+<!--  Jika Anda punya halaman tambahan (misal /tentang, /kontak, dll) tambahkan di sini  -->
+<!-- 
+  <url>
+    <loc>https://layanan-cs-pintu-callcenter-pintu.pages.dev/tentang</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   -->
+</urlset>
